@@ -53,7 +53,7 @@ body {
   animation: growstars 1s alternate infinite;
 }
 
-@keyframes growstars{
+@keyframes growstars {
 
   0% {
     height: 0;
